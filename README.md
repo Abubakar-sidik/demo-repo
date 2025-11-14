@@ -1,5 +1,5 @@
 # Demo
 
-I want to learn version control.
+## subhearder
 
-We will be using Git and GitHub for our project.
+Learn git/github
